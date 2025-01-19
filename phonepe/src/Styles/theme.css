@@ -1,0 +1,17 @@
+img{
+    height: 50px;
+    width: 50px;
+    margin: 0 0 10px 0;
+}
+.header{
+    margin: 45px;
+    text-align: center;
+    color: rgb(30, 39, 210);
+}
+h3{
+    font-size: 20px;
+    color: rgb(3, 116, 147);
+}
+p{
+    font-size: 16px;
+}
