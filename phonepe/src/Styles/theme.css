@@ -1,4 +1,4 @@
-img{
+.imgC {
     height: 50px;
     width: 50px;
     margin: 0 0 10px 0;
@@ -8,10 +8,10 @@ img{
     text-align: center;
     color: rgb(30, 39, 210);
 }
-h3{
+.h3C{
     font-size: 20px;
     color: rgb(3, 116, 147);
 }
-p{
+.pC{
     font-size: 16px;
 }
