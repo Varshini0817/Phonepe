@@ -1,6 +1,6 @@
 import React from 'react';
 
-function Body(props) {
+function Body() {
     return (
         <div className='d-flex justify-content-around align-items-start flex-wrap'>
             <div className='col-12 col-md-5 p-3  '>
