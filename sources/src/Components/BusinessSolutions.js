@@ -3,7 +3,7 @@ import React from "react";
 export const BusinessSolutions = () => {
     return (
         <div>
-            <h6 className="heading6"><strong>Business Solutions</strong></h6>
+            <h6 className="text-nowrap heading6"><strong>Business Solutions</strong></h6>
                 <p>Payment Gateway</p>
                 <p>E-commerce PG</p>
                 <p>Guardian by PhonePe</p> 
