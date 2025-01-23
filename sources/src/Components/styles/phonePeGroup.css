@@ -1,0 +1,11 @@
+.linkBtn{
+    height: 15px;
+    width: 15px;
+    cursor: pointer;
+}
+.pci{
+    border-radius: 10px;
+    margin-right: 5px;
+    height : 80px;
+    width: 150px;
+}
